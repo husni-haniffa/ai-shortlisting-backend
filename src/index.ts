@@ -13,7 +13,7 @@ console.log('MONGO_URI:', process.env.MONGO_URI);
 const app = express();
 app.use(express.json());
 
-const allowedOrigins = ['http://localhost:5173', 'https://aidf-front-end-husni.netlify.app'];
+const allowedOrigins = ['http://localhost:5173', 'https://aidf-hirely-ai-frontend-husni.netlify.app'];
 
 // Define the CORS options
 const corsOptions: CorsOptions = {
