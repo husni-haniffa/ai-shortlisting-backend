@@ -22,6 +22,7 @@ This is the backend API for HirelyAI, an AI-powered candidate shortlisting syste
 1. Clone the repository:
 ```
 git clone https://github.com/Husnixix/ai-shortlisting-backend.git
+cd ai-shortlisting-backend
 ```
 
 2. Install dependencies:
