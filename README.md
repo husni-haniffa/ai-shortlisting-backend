@@ -59,4 +59,4 @@ AI implementation setup instructions will be provided soon. Note that without pr
 
 ## Frontend Integration
 This backend serves the HirelyAI frontend application. Make sure to set up the frontend as well:
-[HirelyAI Frontend Repository](https://github.com/Husnixix/ai-booking-frontend.git)
+[HirelyAI Frontend Repository](https://github.com/Husnixix/ai-shortlisting-frontend.git)
